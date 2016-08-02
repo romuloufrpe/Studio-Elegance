@@ -152,5 +152,10 @@ public class PedidoFragments extends Fragment implements RecyclerViewOnClickList
 
         @Override
         public void onTouchEvent(RecyclerView rv, MotionEvent e) {}
+
+        @Override
+        public void onRequestDisallowInterceptTouchEvent(boolean disallowIntercept) {
+
+        }
     }
 }

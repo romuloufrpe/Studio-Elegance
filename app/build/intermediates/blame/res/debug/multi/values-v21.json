@@ -7,27 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 61,
-                    "endOffset": 112
-                },
-                "from": {
-                    "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 285,
-                        "endColumn": 61,
-                        "endOffset": 342
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 117,
                     "endColumn": 90,
-                    "endOffset": 203
+                    "endOffset": 141
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -42,11 +23,11 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 208,
+                    "startOffset": 146,
                     "endColumn": 102,
-                    "endOffset": 306
+                    "endOffset": 244
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -61,11 +42,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 311,
+                    "startOffset": 249,
                     "endColumn": 102,
-                    "endOffset": 409
+                    "endOffset": 347
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -80,11 +61,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 414,
+                    "startOffset": 352,
                     "endColumn": 104,
-                    "endOffset": 514
+                    "endOffset": 452
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -99,11 +80,11 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 519,
+                    "startOffset": 457,
                     "endColumn": 106,
-                    "endOffset": 621
+                    "endOffset": 559
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -118,11 +99,11 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 626,
+                    "startOffset": 564,
                     "endColumn": 108,
-                    "endOffset": 730
+                    "endOffset": 668
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -137,11 +118,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 735,
+                    "startOffset": 673,
                     "endColumn": 108,
-                    "endOffset": 839
+                    "endOffset": 777
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -156,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 844,
+                    "startOffset": 782,
                     "endColumn": 108,
-                    "endOffset": 948
+                    "endOffset": 886
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -175,11 +156,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 953,
+                    "startOffset": 891,
                     "endColumn": 108,
-                    "endOffset": 1057
+                    "endOffset": 995
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -194,11 +175,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1062,
+                    "startOffset": 1000,
                     "endColumn": 108,
-                    "endOffset": 1166
+                    "endOffset": 1104
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -213,11 +194,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1171,
+                    "startOffset": 1109,
                     "endColumn": 106,
-                    "endOffset": 1273
+                    "endOffset": 1211
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -232,11 +213,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1278,
+                    "startOffset": 1216,
                     "endColumn": 102,
-                    "endOffset": 1376
+                    "endOffset": 1314
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -251,11 +232,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1381,
+                    "startOffset": 1319,
                     "endColumn": 118,
-                    "endOffset": 1495
+                    "endOffset": 1433
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -270,12 +251,12 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1500,
-                    "endLine": 17,
+                    "startOffset": 1438,
+                    "endLine": 16,
                     "endColumn": 12,
-                    "endOffset": 1650
+                    "endOffset": 1588
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -291,12 +272,12 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1655,
-                    "endLine": 19,
+                    "startOffset": 1593,
+                    "endLine": 18,
                     "endColumn": 12,
-                    "endOffset": 1805
+                    "endOffset": 1743
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -312,11 +293,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1810,
+                    "startOffset": 1748,
                     "endColumn": 104,
-                    "endOffset": 1910
+                    "endOffset": 1848
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -331,11 +312,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1915,
+                    "startOffset": 1853,
                     "endColumn": 120,
-                    "endOffset": 2031
+                    "endOffset": 1969
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -350,11 +331,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2036,
+                    "startOffset": 1974,
                     "endColumn": 100,
-                    "endOffset": 2132
+                    "endOffset": 2070
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -369,12 +350,12 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2137,
-                    "endLine": 24,
+                    "startOffset": 2075,
+                    "endLine": 23,
                     "endColumn": 12,
-                    "endOffset": 2279
+                    "endOffset": 2217
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -390,12 +371,12 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2284,
-                    "endLine": 26,
+                    "startOffset": 2222,
+                    "endLine": 25,
                     "endColumn": 12,
-                    "endOffset": 2420
+                    "endOffset": 2358
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -411,11 +392,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2425,
+                    "startOffset": 2363,
                     "endColumn": 102,
-                    "endOffset": 2523
+                    "endOffset": 2461
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -430,11 +411,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2528,
+                    "startOffset": 2466,
                     "endColumn": 118,
-                    "endOffset": 2642
+                    "endOffset": 2580
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -449,11 +430,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2647,
+                    "startOffset": 2585,
                     "endColumn": 106,
-                    "endOffset": 2749
+                    "endOffset": 2687
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -468,11 +449,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2754,
+                    "startOffset": 2692,
                     "endColumn": 102,
-                    "endOffset": 2852
+                    "endOffset": 2790
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -487,12 +468,12 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2857,
-                    "endLine": 32,
+                    "startOffset": 2795,
+                    "endLine": 31,
                     "endColumn": 12,
-                    "endOffset": 3007
+                    "endOffset": 2945
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -508,12 +489,12 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3012,
-                    "endLine": 34,
+                    "startOffset": 2950,
+                    "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 3178
+                    "endOffset": 3116
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -529,12 +510,12 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 3183,
-                    "endLine": 36,
+                    "startOffset": 3121,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 3327
+                    "endOffset": 3265
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -550,12 +531,12 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3332,
-                    "endLine": 38,
+                    "startOffset": 3270,
+                    "endLine": 37,
                     "endColumn": 12,
-                    "endOffset": 3492
+                    "endOffset": 3430
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -571,12 +552,12 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3497,
-                    "endLine": 40,
+                    "startOffset": 3435,
+                    "endLine": 39,
                     "endColumn": 12,
-                    "endOffset": 3649
+                    "endOffset": 3587
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -592,12 +573,12 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3654,
-                    "endLine": 42,
+                    "startOffset": 3592,
+                    "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 3800
+                    "endOffset": 3738
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -613,11 +594,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3805,
+                    "startOffset": 3743,
                     "endColumn": 118,
-                    "endOffset": 3919
+                    "endOffset": 3857
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -632,12 +613,12 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3924,
-                    "endLine": 48,
+                    "startOffset": 3862,
+                    "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 4291
+                    "endOffset": 4229
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -653,12 +634,12 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 4296,
-                    "endLine": 50,
+                    "startOffset": 4234,
+                    "endLine": 49,
                     "endColumn": 12,
-                    "endOffset": 4440
+                    "endOffset": 4378
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -674,12 +655,12 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4445,
-                    "endLine": 52,
+                    "startOffset": 4383,
+                    "endLine": 51,
                     "endColumn": 12,
-                    "endOffset": 4589
+                    "endOffset": 4527
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -695,11 +676,11 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4594,
+                    "startOffset": 4532,
                     "endColumn": 111,
-                    "endOffset": 4701
+                    "endOffset": 4639
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -714,11 +695,11 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 4706,
+                    "startOffset": 4644,
                     "endColumn": 146,
-                    "endOffset": 4848
+                    "endOffset": 4786
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -733,12 +714,12 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 4853,
-                    "endLine": 56,
+                    "startOffset": 4791,
+                    "endLine": 55,
                     "endColumn": 12,
-                    "endOffset": 5001
+                    "endOffset": 4939
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -754,12 +735,12 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 5006,
-                    "endLine": 58,
+                    "startOffset": 4944,
+                    "endLine": 57,
                     "endColumn": 12,
-                    "endOffset": 5148
+                    "endOffset": 5086
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -775,11 +756,11 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 5153,
+                    "startOffset": 5091,
                     "endColumn": 74,
-                    "endOffset": 5223
+                    "endOffset": 5161
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -794,11 +775,11 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 5228,
+                    "startOffset": 5166,
                     "endColumn": 88,
-                    "endOffset": 5312
+                    "endOffset": 5250
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -813,11 +794,11 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 5317,
+                    "startOffset": 5255,
                     "endColumn": 86,
-                    "endOffset": 5399
+                    "endOffset": 5337
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -832,11 +813,11 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 5404,
+                    "startOffset": 5342,
                     "endColumn": 100,
-                    "endOffset": 5500
+                    "endOffset": 5438
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -851,11 +832,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5505,
+                    "startOffset": 5443,
                     "endColumn": 102,
-                    "endOffset": 5603
+                    "endOffset": 5541
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -870,12 +851,12 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 5608,
-                    "endLine": 107,
+                    "startOffset": 5546,
+                    "endLine": 106,
                     "endColumn": 12,
-                    "endOffset": 8671
+                    "endOffset": 8609
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -891,12 +872,12 @@
             },
             {
                 "to": {
-                    "startLine": 108,
+                    "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 8676,
-                    "endLine": 110,
+                    "startOffset": 8614,
+                    "endLine": 109,
                     "endColumn": 12,
-                    "endOffset": 8857
+                    "endOffset": 8795
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -912,12 +893,12 @@
             },
             {
                 "to": {
-                    "startLine": 111,
+                    "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 8862,
-                    "endLine": 154,
+                    "startOffset": 8800,
+                    "endLine": 153,
                     "endColumn": 12,
-                    "endOffset": 11937
+                    "endOffset": 11875
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -933,12 +914,12 @@
             },
             {
                 "to": {
-                    "startLine": 155,
+                    "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 11942,
-                    "endLine": 157,
+                    "startOffset": 11880,
+                    "endLine": 156,
                     "endColumn": 12,
-                    "endOffset": 12135
+                    "endOffset": 12073
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -954,12 +935,12 @@
             },
             {
                 "to": {
-                    "startLine": 158,
+                    "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 12140,
-                    "endLine": 160,
+                    "startOffset": 12078,
+                    "endLine": 159,
                     "endColumn": 12,
-                    "endOffset": 12335
+                    "endOffset": 12273
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -975,12 +956,12 @@
             },
             {
                 "to": {
-                    "startLine": 161,
+                    "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 12340,
-                    "endLine": 162,
+                    "startOffset": 12278,
+                    "endLine": 161,
                     "endColumn": 12,
-                    "endOffset": 12458
+                    "endOffset": 12396
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -996,12 +977,12 @@
             },
             {
                 "to": {
-                    "startLine": 163,
+                    "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 12463,
-                    "endLine": 164,
+                    "startOffset": 12401,
+                    "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 12581
+                    "endOffset": 12519
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1017,12 +998,12 @@
             },
             {
                 "to": {
-                    "startLine": 165,
+                    "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12586,
-                    "endLine": 166,
+                    "startOffset": 12524,
+                    "endLine": 165,
                     "endColumn": 12,
-                    "endOffset": 12694
+                    "endOffset": 12632
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1038,12 +1019,12 @@
             },
             {
                 "to": {
-                    "startLine": 167,
+                    "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 12699,
-                    "endLine": 169,
+                    "startOffset": 12637,
+                    "endLine": 168,
                     "endColumn": 12,
-                    "endOffset": 12877
+                    "endOffset": 12815
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1059,12 +1040,12 @@
             },
             {
                 "to": {
-                    "startLine": 170,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 12882,
-                    "endLine": 171,
+                    "startOffset": 12820,
+                    "endLine": 170,
                     "endColumn": 12,
-                    "endOffset": 13008
+                    "endOffset": 12946
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1080,12 +1061,12 @@
             },
             {
                 "to": {
-                    "startLine": 172,
+                    "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 13013,
-                    "endLine": 174,
+                    "startOffset": 12951,
+                    "endLine": 173,
                     "endColumn": 12,
-                    "endOffset": 13209
+                    "endOffset": 13147
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1101,11 +1082,11 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 13214,
+                    "startOffset": 13152,
                     "endColumn": 88,
-                    "endOffset": 13298
+                    "endOffset": 13236
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1120,11 +1101,11 @@
             },
             {
                 "to": {
-                    "startLine": 176,
+                    "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 13303,
+                    "startOffset": 13241,
                     "endColumn": 110,
-                    "endOffset": 13409
+                    "endOffset": 13347
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1139,12 +1120,12 @@
             },
             {
                 "to": {
-                    "startLine": 177,
+                    "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 13414,
-                    "endLine": 179,
+                    "startOffset": 13352,
+                    "endLine": 178,
                     "endColumn": 12,
-                    "endOffset": 13642
+                    "endOffset": 13580
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1160,11 +1141,11 @@
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 13647,
+                    "startOffset": 13585,
                     "endColumn": 100,
-                    "endOffset": 13743
+                    "endOffset": 13681
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1179,11 +1160,11 @@
             },
             {
                 "to": {
-                    "startLine": 181,
+                    "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 13748,
+                    "startOffset": 13686,
                     "endColumn": 94,
-                    "endOffset": 13838
+                    "endOffset": 13776
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1198,11 +1179,11 @@
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 13843,
+                    "startOffset": 13781,
                     "endColumn": 122,
-                    "endOffset": 13961
+                    "endOffset": 13899
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1217,11 +1198,11 @@
             },
             {
                 "to": {
-                    "startLine": 183,
+                    "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 13966,
+                    "startOffset": 13904,
                     "endColumn": 128,
-                    "endOffset": 14090
+                    "endOffset": 14028
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1236,11 +1217,11 @@
             },
             {
                 "to": {
-                    "startLine": 184,
+                    "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 14095,
+                    "startOffset": 14033,
                     "endColumn": 116,
-                    "endOffset": 14207
+                    "endOffset": 14145
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1255,12 +1236,12 @@
             },
             {
                 "to": {
-                    "startLine": 185,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 14212,
-                    "endLine": 187,
+                    "startOffset": 14150,
+                    "endLine": 186,
                     "endColumn": 12,
-                    "endOffset": 14384
+                    "endOffset": 14322
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1276,11 +1257,11 @@
             },
             {
                 "to": {
-                    "startLine": 188,
+                    "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 14389,
+                    "startOffset": 14327,
                     "endColumn": 98,
-                    "endOffset": 14483
+                    "endOffset": 14421
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1295,12 +1276,12 @@
             },
             {
                 "to": {
-                    "startLine": 189,
+                    "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 14488,
-                    "endLine": 190,
+                    "startOffset": 14426,
+                    "endLine": 189,
                     "endColumn": 12,
-                    "endOffset": 14618
+                    "endOffset": 14556
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1316,12 +1297,12 @@
             },
             {
                 "to": {
-                    "startLine": 191,
+                    "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 14623,
-                    "endLine": 192,
+                    "startOffset": 14561,
+                    "endLine": 191,
                     "endColumn": 12,
-                    "endOffset": 14761
+                    "endOffset": 14699
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1337,12 +1318,12 @@
             },
             {
                 "to": {
-                    "startLine": 193,
+                    "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 14766,
-                    "endLine": 194,
+                    "startOffset": 14704,
+                    "endLine": 193,
                     "endColumn": 12,
-                    "endOffset": 14896
+                    "endOffset": 14834
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1358,12 +1339,12 @@
             },
             {
                 "to": {
-                    "startLine": 195,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14901,
-                    "endLine": 196,
+                    "startOffset": 14839,
+                    "endLine": 195,
                     "endColumn": 12,
-                    "endOffset": 15015
+                    "endOffset": 14953
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1379,12 +1360,12 @@
             },
             {
                 "to": {
-                    "startLine": 197,
+                    "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 15020,
-                    "endLine": 200,
+                    "startOffset": 14958,
+                    "endLine": 199,
                     "endColumn": 12,
-                    "endOffset": 15216
+                    "endOffset": 15154
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1400,12 +1381,12 @@
             },
             {
                 "to": {
-                    "startLine": 201,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 15221,
-                    "endLine": 202,
+                    "startOffset": 15159,
+                    "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 15335
+                    "endOffset": 15273
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1421,11 +1402,11 @@
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 15340,
+                    "startOffset": 15278,
                     "endColumn": 92,
-                    "endOffset": 15428
+                    "endOffset": 15366
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1440,11 +1421,11 @@
             },
             {
                 "to": {
-                    "startLine": 204,
+                    "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 15433,
+                    "startOffset": 15371,
                     "endColumn": 110,
-                    "endOffset": 15539
+                    "endOffset": 15477
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1459,11 +1440,11 @@
             },
             {
                 "to": {
-                    "startLine": 205,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 15544,
+                    "startOffset": 15482,
                     "endColumn": 55,
-                    "endOffset": 15595
+                    "endOffset": 15533
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1478,12 +1459,12 @@
             },
             {
                 "to": {
-                    "startLine": 206,
+                    "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 15600,
-                    "endLine": 207,
+                    "startOffset": 15538,
+                    "endLine": 206,
                     "endColumn": 12,
-                    "endOffset": 15702
+                    "endOffset": 15640
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1499,12 +1480,12 @@
             },
             {
                 "to": {
-                    "startLine": 208,
+                    "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 15707,
-                    "endLine": 211,
+                    "startOffset": 15645,
+                    "endLine": 210,
                     "endColumn": 12,
-                    "endOffset": 15897
+                    "endOffset": 15835
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1520,12 +1501,12 @@
             },
             {
                 "to": {
-                    "startLine": 212,
+                    "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 15902,
-                    "endLine": 213,
+                    "startOffset": 15840,
+                    "endLine": 212,
                     "endColumn": 12,
-                    "endOffset": 16008
+                    "endOffset": 15946
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1541,12 +1522,12 @@
             },
             {
                 "to": {
-                    "startLine": 214,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 16013,
-                    "endLine": 215,
+                    "startOffset": 15951,
+                    "endLine": 214,
                     "endColumn": 12,
-                    "endOffset": 16141
+                    "endOffset": 16079
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1562,11 +1543,11 @@
             },
             {
                 "to": {
-                    "startLine": 216,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 16146,
+                    "startOffset": 16084,
                     "endColumn": 94,
-                    "endOffset": 16236
+                    "endOffset": 16174
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1581,11 +1562,11 @@
             },
             {
                 "to": {
-                    "startLine": 217,
+                    "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 16241,
+                    "startOffset": 16179,
                     "endColumn": 90,
-                    "endOffset": 16327
+                    "endOffset": 16265
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1600,11 +1581,11 @@
             },
             {
                 "to": {
-                    "startLine": 218,
+                    "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 16332,
+                    "startOffset": 16270,
                     "endColumn": 90,
-                    "endOffset": 16418
+                    "endOffset": 16356
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1619,11 +1600,11 @@
             },
             {
                 "to": {
-                    "startLine": 219,
+                    "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 16423,
+                    "startOffset": 16361,
                     "endColumn": 116,
-                    "endOffset": 16535
+                    "endOffset": 16473
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1638,12 +1619,12 @@
             },
             {
                 "to": {
-                    "startLine": 220,
+                    "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 16540,
-                    "endLine": 221,
+                    "startOffset": 16478,
+                    "endLine": 220,
                     "endColumn": 12,
-                    "endOffset": 16674
+                    "endOffset": 16612
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1659,12 +1640,12 @@
             },
             {
                 "to": {
-                    "startLine": 222,
+                    "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 16679,
-                    "endLine": 231,
+                    "startOffset": 16617,
+                    "endLine": 230,
                     "endColumn": 12,
-                    "endOffset": 17187
+                    "endOffset": 17125
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1680,12 +1661,12 @@
             },
             {
                 "to": {
-                    "startLine": 232,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 17192,
-                    "endLine": 241,
+                    "startOffset": 17130,
+                    "endLine": 240,
                     "endColumn": 12,
-                    "endOffset": 17712
+                    "endOffset": 17650
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1701,12 +1682,12 @@
             },
             {
                 "to": {
-                    "startLine": 242,
+                    "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 17717,
-                    "endLine": 251,
+                    "startOffset": 17655,
+                    "endLine": 250,
                     "endColumn": 12,
-                    "endOffset": 18392
+                    "endOffset": 18330
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1722,11 +1703,11 @@
             },
             {
                 "to": {
-                    "startLine": 252,
+                    "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 18397,
+                    "startOffset": 18335,
                     "endColumn": 56,
-                    "endOffset": 18449
+                    "endOffset": 18387
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1741,11 +1722,11 @@
             },
             {
                 "to": {
-                    "startLine": 253,
+                    "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 18454,
+                    "startOffset": 18392,
                     "endColumn": 57,
-                    "endOffset": 18507
+                    "endOffset": 18445
                 },
                 "from": {
                     "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-v21/values-v21.xml",
@@ -1755,6 +1736,27 @@
                         "startOffset": 18392,
                         "endColumn": 57,
                         "endOffset": 18445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 18450,
+                    "endLine": 255,
+                    "endColumn": 12,
+                    "endOffset": 18639
+                },
+                "from": {
+                    "file": "/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 244
                     }
                 }
             }

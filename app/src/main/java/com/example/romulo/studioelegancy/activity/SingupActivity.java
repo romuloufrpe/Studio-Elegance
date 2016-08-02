@@ -69,6 +69,7 @@ public class SingupActivity extends AppCompatActivity  {
     public void sendSignUpData( View view ){
         //openProgressBar();
         initUser();
+        saveUser();
 
     }
 
@@ -80,6 +81,9 @@ public class SingupActivity extends AppCompatActivity  {
                     @Override
                     public void onSuccess(Map<String, Object> stringObjectMap) {
                         user.setId( stringObjectMap.get("uid").toString());
+                        user.saveDB();
+                        firebase.unauth();
+                        finish();
 
                     }
 

@@ -32,158 +32,121 @@ public class LoginActivity extends AppCompatActivity {
 
     private Firebase firebase;
     private User user;
+    private TextView name;
+    private TextView email;
+    private EditText password;
 
 
-
-    @Bind(R.id.input_email) EditText _emailText;
-    @Bind(R.id.input_password) EditText _passwordText;
-    @Bind(R.id.btn_login) Button _loginButton;
     @Bind(R.id.link_signup) TextView _signupLink;
 
-
-
-
     @Override
-    public void onCreate(Bundle savedInstanceState){
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login);
 
-        Toolbar toolbar = (Toolbar)findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+        firebase = LibraryClass.getFirebase();
+        verifyUserLoogged();
+        initViews();
         ButterKnife.bind(this);
 
-        firebase = LibraryClass.getFirebase();
-        verifyUserLogged();
 
-        _emailText.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                login();
-            }
-        });
         _signupLink.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
                 // Start the Signup activity
                 Intent intent = new Intent(getApplicationContext(), SingupActivity.class);
-                startActivity(intent);
+                startActivityForResult(intent, REQUEST_SINGUP);
             }
         });
+
     }
 
-    public void login(){
-        Log.d(TAG,"Login");
+    public void singUp(){
+        Intent intent = new Intent(this, SingupActivity.class);
+        startActivity(intent);
+    }
 
-        if (!validate()){
-            onLoginFailed();
-            return;
+    protected void initViews() {
+        name = (TextView) findViewById(R.id.input_name);
+        email = (TextView) findViewById(R.id.input_email);
+        password = (EditText) findViewById(R.id.input_password);
+
+
+        //progressBar = (ProgressBar) findViewById(R.id.sign_up_progress);
+    }
+
+    protected void initUser() {
+        user = new User();
+       // user.setNome(name.getText().toString());
+//        user.setEmail(email.getText().toString());
+  //      user.setPassword(password.getText().toString());
+    }
+
+    public void callSignUp(View view) {
+        Intent intent = new Intent(this, SingupActivity.class);
+        startActivity(intent);
+    }
+
+    public void sendLonginData(View view) {
+        initUser();
+    }
+
+    private void verifyUserLoogged() {
+        if (firebase.getAuth() != null) {
+            callCardViewActivity();
+        }
+        else {
+            initUser();
         }
 
-        _loginButton.setEnabled(false);
+            if (!user.getTokenSP(this).isEmpty()){
+                firebase.authWithPassword(
+                        "password",
+                        user.getTokenSP(this),
+                        new Firebase.AuthResultHandler() {
+                            @Override
+                            public void onAuthenticated(AuthData authData) {
 
-        final ProgressDialog progressDialog = new ProgressDialog(LoginActivity.this, R.style.AppTheme_Dark_Dialog);
-        progressDialog.setIndeterminate(true);
-        progressDialog.setMessage("Confirmando...");
-        progressDialog.show();
+                                user.saveTokenSP(LoginActivity.this, authData.getToken());
+                                callCardViewActivity();
+                            }
 
-        String email = _emailText.getText().toString();
-        String password = _passwordText.getText().toString();
+                            @Override
+                            public void onAuthenticationError(FirebaseError firebaseError) {
 
+                            }
+                        }
+                );
 
-
-        new android.os.Handler().postDelayed(
-                new Runnable() {
-                    @Override
-                    public void run() {
-                        onLoginSuccess();
-                        progressDialog.dismiss();
-                    }
-                },3000);
-    }
-
-
-    @Override
-    public void onActivityResult(int requestCode, int resultCode, Intent data){
-        if(requestCode == REQUEST_SINGUP){
-            if(resultCode == RESULT_OK){
-                this.finish();
             }
         }
-    }
 
-    @Override
-    public void onBackPressed(){
-        moveTaskToBack(true);
-    }
 
-    public void onLoginSuccess(){
-        _loginButton.setEnabled(true);
-
-        finish();
-    }
-
-    public void onLoginFailed(){
-        Toast.makeText(getBaseContext(), "Login failed", Toast.LENGTH_LONG).show();
-
-        _loginButton.setEnabled(true);
-    }
-
-    public boolean validate(){
-        boolean valid = true;
-
-        String email = _emailText.getText().toString();
-        String password = _passwordText.getText().toString();
-
-        if(email.isEmpty() || !Patterns.EMAIL_ADDRESS.matcher(email).matches()){
-            _emailText.setError("Entre com um email valido");
-            valid = false;
-        }
-        if(password.isEmpty() || password.length()< 4 || password.length() > 10){
-            _passwordText.setError("Senha deve conter de 4 a 10 caracteres");
-            valid = false;
-        }else{
-            _passwordText.setError(null);
-        } if(email.equals("romulo@gmail.com")  && password.equals("12345") ){
-            Intent intent = new Intent(getApplicationContext(), CardViewActivity.class);
-            startActivity(intent);
-            valid = true;
-        }
-
-        return valid;
-
-    }
-    public void sendLoginData(){
-
-    }
-
-    private void verifyUserLogged(){
-        if (firebase.getAuth() !=null){
-          callMainActivity();
-        }
-    }
-    private void callMainActivity(){
-        Intent intent = new Intent(this,CardView.class);
+    private void callCardViewActivity() {
+        Intent intent = new Intent(this, CardViewActivity.class);
         startActivity(intent);
         finish();
     }
 
-    private void verifyLogin(){
+    private void verifyLogin() {
         firebase.authWithPassword(
                 user.getEmail(),
                 user.getPassword(),
                 new Firebase.AuthResultHandler() {
                     @Override
                     public void onAuthenticated(AuthData authData) {
+
                         user.saveTokenSP(LoginActivity.this, authData.getToken());
-                        callMainActivity();
+                        callCardViewActivity();
                     }
 
                     @Override
                     public void onAuthenticationError(FirebaseError firebaseError) {
-                            finish();
+                        finish();
                     }
                 }
         );
+
     }
 }

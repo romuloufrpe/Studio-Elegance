@@ -1,0 +1,5 @@
+CHANGED,/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/romulo/studioelegancy/activity/LoginActivity$2$override.class
+CHANGED,/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/romulo/studioelegancy/activity/LoginActivity$1$override.class
+CHANGED,/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/romulo/studioelegancy/activity/LoginActivity$3$override.class
+CHANGED,/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/romulo/AndroidStudioProjects/StudioElegancy/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/romulo/studioelegancy/activity/LoginActivity$override.class
